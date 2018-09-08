@@ -1,1 +1,1 @@
-# [Please click here to view company website](https://jujhar-it.github.io/JujharWebsite/)
+# [Please click here to view company website](https://jujharfoundations.github.io/JujharWebsite/)
